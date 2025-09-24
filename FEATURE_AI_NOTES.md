@@ -1,0 +1,1 @@
+Halloween-themed countdown timer implemented with floating decorative emojis and spooky styling. Uses the Creepster font from Google Fonts for a Halloween feel. The timer updates every second and shows days, hours, minutes, and seconds until the next Halloween.
